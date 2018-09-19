@@ -1,0 +1,2 @@
+## 什么是MarsBaseWebsite
+本项目是一个基于nuxt、uikit并依赖后端MarsBase的前端基础框架。
